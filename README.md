@@ -37,13 +37,11 @@ Currently developing automated tools to streamline **ISO/IEC 27001** implementat
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Stats
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=santix01&show_icons=true&theme=radical&hide_border=true" alt="Santiago's Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santix01&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
-</p>
-<br clear="all">
+![Santiago's Stats](https://github-readme-stats.vercel.app/api?username=santix01&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santix01&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ---
 
