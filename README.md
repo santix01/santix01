@@ -1,6 +1,8 @@
 ### 💀 System.out.println("Hello, World! I'm Santiago.");
 
-I am an **Electronic Engineer** transitioning into **Offensive & Defensive Cybersecurity**. My core focus is bridging the gap between low-level hardware constraints and high-level **Governance, Risk, and Compliance (GRC)** standards.
+### Hi there, I'm Santiago Avendaño! 👋
+
+I am an **Electronic Engineer** bridging the gap between hardware constraints and **Cybersecurity Governance (GRC)**. I build automated, open-source tools to streamline **ISO 27001** compliance, focusing on Threat Intelligence and Immutable Backup solutions.
 
 Currently developing automated tools to streamline **ISO/IEC 27001** implementation for Incident Response and Business Continuity.
 
@@ -10,8 +12,8 @@ Currently developing automated tools to streamline **ISO/IEC 27001** implementat
 
 | Project | Role | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| [**Kitsune Sentry**](https://github.com/TU_USUARIO/Kitsune-Sentry) | **Author** | Automated URL Reputation Scanner for SOC L1 Triage. **(ISO 27001 A.16.1)** | `Bash` `VirusTotal API` `JSON` |
-| [**Samurai Shield**](https://github.com/TU_USUARIO/Samurai-Shield) | **Author** | Immutable Backup Simulation with Air-Gap logic. **(ISO 27001 A.12.3)** | `Bash` `Crypto-Hashing` `Linux I/O` |
+| [**Kitsune Sentry**](https://github.com/santix01/Kitsune-Sentry) | **Author** | Automated URL Reputation Scanner for SOC L1 Triage. **(ISO 27001 A.16.1)** | `Bash` `VirusTotal API` `JSON` |
+| [**Samurai Shield**](https://github.com/santix01/Samurai-Shield) | **Author** | Immutable Backup Simulation with Air-Gap logic. **(ISO 27001 A.12.3)** | `Bash` `Crypto-Hashing` `Linux I/O` |
 | **Kusanagi** | **Dev** | *[In Development]* Advanced Security Auditing Agent. | `Python` `Kali Linux` |
 
 ---
@@ -19,7 +21,9 @@ Currently developing automated tools to streamline **ISO/IEC 27001** implementat
 ### ⚔️ Security Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Kernel-Linux_Hardening-black?style=flat-square&logo=linux&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -36,8 +40,8 @@ Currently developing automated tools to streamline **ISO/IEC 27001** implementat
 ### 📊 GitHub Analytics
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Santiago's Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=santix01&show_icons=true&theme=radical&hide_border=true" alt="Santiago's Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santix01&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
 </p>
 <br clear="all">
 
